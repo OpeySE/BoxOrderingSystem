@@ -1,4 +1,4 @@
-# BoxOrderingSystem
+# Box Ordering System
 This is a box ordering system that was designed for my the java coursework, which has been improved. Improved my implementation of one and two dimensional arrays.
 
 ## Preview of the application
